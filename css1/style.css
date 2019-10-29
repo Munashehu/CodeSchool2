@@ -1,0 +1,28 @@
+#nav{
+    background-color:#0062cc;
+}
+
+#img{
+    width:75%;
+    height:100
+}
+
+#jum{
+    background-color: #0062cc;
+    color: white;
+    /* background-image: url(../images/MAIMUNA.JPG);  */
+}
+
+#h5{
+    color: #0062cc;
+}
+#hello{
+    background-color: #fff;
+    color: #0062cc;
+}
+
+#btn{
+    color: #fff;
+    background-color: #0062cc;
+}
+
