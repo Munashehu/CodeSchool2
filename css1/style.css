@@ -8,13 +8,12 @@
 }
 
 #jum{
-    background-color: #0062cc;
+    /* background-color: #0062cc; */
     color: white;
-    /*background-image: linear-gradient(90deg, rgba(48, 17, 105, 0.73) 21%, rgba(48, 17, 105, 0.73)94%), url(../images/MAIMUNA.JPG);*/
-    /*height:100px; width: 100PX;*/
-    /*background-size:contain;*/
-    /*position: relative;*/ 
-    /* background-image: url(../images/MAIMUNA.JPG);  */
+    background-image: linear-gradient(90deg, rgba(39, 36, 207, 0.596) 21%, rgba(24, 77, 128, 0.774)44%), url(../images/MAIMUNA.JPG);
+    background-size:cover;
+    position: relative;
+    height: 400px;
 }
 
 #h5{
@@ -53,4 +52,7 @@
     background-color: #f5f5f5;
     box-shadow: 5px 22px 80px -84px rgb(39, 16, 122);
     padding: 30px;
+}
+#bak{
+    background-color: ghostwhite;
 }
